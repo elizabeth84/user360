@@ -1,0 +1,25 @@
+body{
+	background-image: url("../image/large.jpg");
+	background-repeat: no-repeat;
+	background-size:100%;
+}
+.formulario{
+	background-color: white;
+	padding: 12px;
+	margin-top: 10%;
+	border-top:9px solid #045FB4;
+}
+.pboton{
+	padding: 32px;
+}
+.red{
+	color:red;
+}
+.cortos{
+	width: 30%;
+	margin-top: 12px;
+    margin-left: 85px;
+}
+.right{
+	padding-left: 83%;
+}
